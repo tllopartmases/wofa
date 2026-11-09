@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Cuido la meva mare i no deixaria entrar a casa seva algú que he trobat en una web nova on encara hi ha poques valoracions. Si és gratis per als primers usuaris, vol dir que tothom hi és nou i les ressenyes que necessito llegir encara no existeixen.",
+  "objection": "No sé qui és aquesta persona: una web acabada de començar no em garanteix que les valoracions siguin reals ni que algú hagi comprovat la seva identitat o antecedents.",
+  "would_change_my_mind": "Que una persona de confiança del meu entorn em recomanés algú concret de la web i pogués veure moltes valoracions reals, amb foto i identitat verificada, i conèixer-la en persona abans.",
+  "price_too_cheap": 6,
+  "price_cheap": 10,
+  "price_expensive": 16,
+  "price_too_expensive": 22
+}

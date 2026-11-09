@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ja tinc la veïna que em passeja el gos des de fa anys i em va bé; no tinc cap motiu per canviar-la per un desconegut d'una web.",
+  "objection": "No deixaria entrar a casa ni donaria les claus o el gos a algú que no conec, per moltes estrelletes que tingui al perfil.",
+  "would_change_my_mind": "Que la meva veïna deixés de poder-ho fer i algú de confiança em recomanés una persona concreta de la web.",
+  "price_too_cheap": 6,
+  "price_cheap": 10,
+  "price_expensive": 16,
+  "price_too_expensive": 22
+}

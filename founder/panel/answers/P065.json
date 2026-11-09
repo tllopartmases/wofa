@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Una web nova vol dir perfils amb zero o dues valoracions, i jo no deixo entrar ningú al jardí ni li dono el gos sense haver llegit opinions de veritat i haver-li vist la cara. De moment continuaré preguntant a coneguts i a les veïnes de l'escala.",
+  "objection": "Ara és gratis, però d'aquí un any em cobraran comissió, i mentrestant els perfils estaran buits de ressenyes; no sé qui hi ha darrere de cada perfil ni si les valoracions són reals.",
+  "would_change_my_mind": "Veure un passejador de gossos a prop de casa amb foto, identitat verificada i almenys deu o quinze valoracions reals de gent de Girona, i saber des d'ara quina comissió cobraran.",
+  "price_too_cheap": 7,
+  "price_cheap": 11,
+  "price_expensive": 18,
+  "price_too_expensive": 24
+}

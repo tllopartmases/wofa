@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito una cangur d'avui per demà truco a la veïna o pregunto al grup de mares del WhatsApp i pago en mà. No em veig registrant-me i posant la targeta en una web nova per una cosa que ja resolc així.",
+  "objection": "Per què he de pagar per avançat amb targeta a una web que no conec, si puc pagar en mà quan la feina està feta? I quan és urgent, no sé si hi haurà algú disponible a prop el mateix dia.",
+  "would_change_my_mind": "Que un dia el meu cercle no tingui ningú i a la web trobi algú amb bones valoracions a prop disponible aquell mateix dia; si funciona a la primera, hi tornaria.",
+  "price_too_cheap": 6,
+  "price_cheap": 8,
+  "price_expensive": 11,
+  "price_too_expensive": 14
+}

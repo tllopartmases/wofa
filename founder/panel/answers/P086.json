@@ -1,0 +1,13 @@
+{
+  "id": "P086",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Visc en un pis compartit, no tinc gos ni jardí ni fills, i el que de veritat necessito és algú que ajudi amb la meva mare gran, que aquí no surt. Amb el que guanyo, la neteja o les classes les faig jo; potser m'hi registraria per curiositat, però no pagaria cap feina aquest mes.",
+  "objection": "Ara és gratis, però d'aquí un any em cobraran comissió, i per a mi cada euro compta; a més no sé si un veí desconegut és de fiar per entrar a casa de la meva mare.",
+  "would_change_my_mind": "Que hi hagués acompanyament o ajuda puntual per a gent gran (fer-li companyia unes hores, acompanyar-la al metge) amb persones verificades i a un preu per sota de 10 €/hora.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 16
+}

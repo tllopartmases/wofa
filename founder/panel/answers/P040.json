@@ -1,0 +1,13 @@
+{
+  "id": "P040",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "M'agrada provar apps noves i el pagament retingut fins que confirmo em dona una mica de tranquil·litat, així que ho provaria una vegada per a alguna cosa de poc risc, com classes de repàs per al petit. Per deixar-hi els fills com a cangur, de moment continuaria preguntant al grup de WhatsApp de la classe.",
+  "objection": "No diu enlloc que verifiquin la identitat o els antecedents de qui ve a casa; les valoracions al principi seran poques i una reclamació per diners no em serveix si el problema és amb els meus fills.",
+  "would_change_my_mind": "Que la persona tingui la identitat verificada (DNI i, per a cangurs, certificat de delictes sexuals) i que hi hagi un telèfon o algú real que respongui si passa alguna cosa.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 14,
+  "price_too_expensive": 18
+}

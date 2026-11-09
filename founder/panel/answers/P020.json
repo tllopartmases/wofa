@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito algú per al gos o el jardí ho pregunto al grup de WhatsApp del barri o a la família, i pago en mà. No veig per què hauria de posar la targeta en una web per a una cosa que ja em resolen els veïns que conec.",
+  "objection": "Per què he de pagar per avançat amb targeta a una web si puc pagar en mà a algú que em recomana una veïna? I després del primer any hi posaran comissió, que acabaré pagant jo.",
+  "would_change_my_mind": "Que alguna veïna o algú del grup del barri m'ho recomanés perquè hi ha trobat algú de confiança a prop de casa, i que pogués pagar en efectiu.",
+  "price_too_cheap": 6,
+  "price_cheap": 10,
+  "price_expensive": 15,
+  "price_too_expensive": 20
+}

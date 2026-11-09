@@ -1,0 +1,13 @@
+{
+  "id": "P047",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito que algú em passegi el gos o em miri el jardí, ho pregunto al grup de WhatsApp del barri i sempre surt algú conegut. No em cal una web ni pagar amb targeta per això.",
+  "objection": "Ara és gratis, però d'aquí un any em cobraran comissió, i a més no conec ningú d'aquesta gent; unes valoracions a internet no em diuen res comparat amb una veïna que em recomana algú.",
+  "would_change_my_mind": "Que algú de confiança del meu grup de WhatsApp o de la família m'hi recomanés una persona concreta que ja hagi fet feina per a ells.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 14,
+  "price_too_expensive": 20
+}

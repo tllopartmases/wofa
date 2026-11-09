@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Visc en un pis compartit, no tinc fills, ni gos, ni jardí, i la neteja la fem entre els companys. Amb 16.000 € l'any no pago ningú perquè em faci feines de casa; com a molt m'hi registraria per fer jo cangurs o classes i guanyar uns calerons.",
+  "objection": "Ara és gratis, però d'aquí a un any em cobraran comissió, i de totes maneres no tinc res que necessiti que algú em faci.",
+  "would_change_my_mind": "Que hi hagués algú que em fes classes d'idiomes o de repàs per a la uni de manera puntual a menys de 10 €/hora, sense comissió extra.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 15
+}

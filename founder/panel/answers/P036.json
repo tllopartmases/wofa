@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito algú ja tinc la veïna o el noi de sempre, que em cobra poc i en efectiu. Amb 14.000 € l'any no em cal una altra app on registrar-me i posar la targeta.",
+  "objection": "Una altra app més on registrar-me, i encara que ara sigui gratis després em cobraran comissió per una cosa que ja tinc resolta de franc.",
+  "would_change_my_mind": "Que la meva persona de confiança deixés de poder i necessités algú ràpid, o fer-hi jo feinetes per guanyar uns calerons.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 13,
+  "price_too_expensive": 18
+}

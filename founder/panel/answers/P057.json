@@ -1,0 +1,13 @@
+{
+  "id": "P057",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito algú perquè m'ajudi amb la neteja de casa de la mare, ho pregunto al grup de WhatsApp de la família o del barri i en un dia tinc un nom de confiança. Una altra web on registrar-me i posar la targeta per a una cosa que ja resolc així no em fa falta ara mateix.",
+  "objection": "No conec ningú dels qui hi ha i deixar entrar un desconegut a casa de la meva mare gran només per unes estrelles d'un perfil em fa molt de respecte.",
+  "would_change_my_mind": "Que algú de confiança del meu grup de WhatsApp em passés un perfil concret de WoFa d'una persona que ja ha fet feines per a gent que conec.",
+  "price_too_cheap": 7,
+  "price_cheap": 10,
+  "price_expensive": 15,
+  "price_too_expensive": 20
+}

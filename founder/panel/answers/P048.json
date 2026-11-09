@@ -1,0 +1,13 @@
+{
+  "id": "P048",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito algú per al pare a Girona pregunto al grup de WhatsApp o a la família i pago en mà, i sempre m'ha funcionat. No veig per què hauria de fer-ho per una web i amb targeta.",
+  "objection": "Per què he de pagar per avançat amb targeta i esperar a confirmar si puc pagar en mà a algú que em recomana un conegut? I després de 12 mesos hi haurà comissió, que al final pagaré jo.",
+  "would_change_my_mind": "Que algú de confiança del meu grup de WhatsApp m'hi recomani una persona concreta amb bones valoracions, i poder pagar en mà o sense comissió.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 14,
+  "price_too_expensive": 18
+}

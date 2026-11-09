@@ -1,0 +1,13 @@
+{
+  "id": "P058",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Per al meu pare ja tenim la veïna que l'ajuda des de fa anys i jo hi vaig dos cops per setmana. No canviaria algú de confiança per un desconegut d'una web per estalviar-me un parell d'euros.",
+  "objection": "No deixaria entrar a casa del meu pare algú que no conec. Unes quantes valoracions d'altres usuaris no em diuen qui és aquella persona ni si és de fiar amb una persona gran.",
+  "would_change_my_mind": "Que la veïna deixés de poder venir i que la persona de WoFa me la recomanés algú que conec, o que es pogués fer una primera trobada amb mi present abans de deixar-la sola amb ell.",
+  "price_too_cheap": 7,
+  "price_cheap": 10,
+  "price_expensive": 15,
+  "price_too_expensive": 20
+}

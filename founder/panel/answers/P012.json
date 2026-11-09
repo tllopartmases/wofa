@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Per deixar algú amb el meu pare a Girona necessito saber qui és de veritat, i això ho trobo preguntant al grup de WhatsApp del barri o a la família, no en una web nova amb quatre valoracions. Que els diners quedin retinguts està bé, però a mi el que em preocupa no són els diners.",
+  "objection": "Enlloc diu que verifiquin la identitat o els antecedents de la gent, i si passa alguna cosa amb el meu pare quan jo no hi soc, una reclamació a la web no em serveix de res; vull saber qui respon.",
+  "would_change_my_mind": "Que algú de confiança del meu entorn m'hi recomanés una persona concreta i que la web verifiqués DNI i antecedents i tingués un telèfon on algú respon de debò si hi ha un problema.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 14,
+  "price_too_expensive": 18
+}

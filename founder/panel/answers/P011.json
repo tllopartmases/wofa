@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito algú pregunto al grup de WhatsApp del barri o a la família i en un parell d'hores tinc un nom de confiança. Amb el que guanyo i anant a Girona dos cops per setmana pel pare, no tinc temps ni ganes d'una altra app on registrar-me i posar la targeta.",
+  "objection": "No conec ningú que l'utilitzi, i unes valoracions d'un perfil no em diuen el mateix que una veïna que em diu 'aquesta noia és de confiança'. A més, d'aquí a un any ja hi haurà comissió.",
+  "would_change_my_mind": "Que algú del meu grup de WhatsApp o de la família me la recomanés perquè ha trobat algú bo i proper a través seu, sobretot per fer companyia o petites feines al pare a Girona.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 13,
+  "price_too_expensive": 17
+}

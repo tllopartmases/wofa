@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito un cangur o algú per al jardí, ho pregunto al grup de WhatsApp del barri o de l'escola i en un dia tinc algú que conec. No veig per què m'hauria de registrar a una altra web i pagar amb targeta a un desconegut.",
+  "objection": "Una altra app més on registrar-me, i deixar els nens amb algú que només conec per unes estrelles d'una web nova que encara no té gaire gent.",
+  "would_change_my_mind": "Que algú de confiança del grup de l'escola o del barri me la recomanés dient que hi ha trobat una persona bona i propera.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 14,
+  "price_too_expensive": 18
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P092",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Al pare ja hi vaig jo dos cops per setmana, i les coses de casa les faig jo o les demano a algun conegut i les pago en efectiu. No veig per què m'hauria de registrar a una altra web i pagar amb targeta per una cosa que ja resolc sense gastar.",
+  "objection": "Una altra app més on registrar-me, i ara és gratis però després hi posaran comissió, així que acabarà sortint més car que trucar a algú del barri i pagar-li en mà.",
+  "would_change_my_mind": "Que hi hagués algú de confiança a prop del pare per fer-li companyia o petits encàrrecs els dies que no hi puc anar, a un preu clarament més baix que el que ja trobo pel meu compte.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 16
+}

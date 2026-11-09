@@ -1,0 +1,13 @@
+{
+  "id": "P094",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito algú d'un dia per l'altre, escric al grup de WhatsApp de l'escola o a la família i sempre surt algú, i em surt gratis o amb una propina. No em baixaré una web nova i pagaré amb targeta per una cosa que ja tinc resolta.",
+  "objection": "Si és una web nova, dubto que hi hagi algú disponible avui mateix a prop meu, i a més he de deixar els nens amb un desconegut que només conec per unes valoracions.",
+  "would_change_my_mind": "Que un dia el grup de WhatsApp no em resolgui res i veure a la web algú del meu barri amb bones valoracions que pugui venir el mateix dia.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 13,
+  "price_too_expensive": 17
+}

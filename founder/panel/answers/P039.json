@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No donaria les claus de casa ni el gos a un desconegut d'una web nova només per unes estrelletes. Si necessito algú per al gos o el jardí, ho demano a un veí que conec o a algú del poble i li pago en mà, que surt més barat.",
+  "objection": "No sé qui és aquesta gent; unes valoracions a internet no em diuen si és de fiar per entrar a casa meva, i a més d'aquí un any hi posaran comissió i acabarà sortint més car que pagar en efectiu.",
+  "would_change_my_mind": "Que un veí o algú que conec de veritat m'hi recomani una persona concreta que ja hagi fet feines a casa seva.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 13,
+  "price_too_expensive": 17
+}

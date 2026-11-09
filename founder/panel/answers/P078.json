@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No deixo els meus fills amb ningú que no tingui valoracions reals i una cara. Una web nova encara no té ressenyes de veritat, i pel cangur ja demano al grup de WhatsApp de la classe.",
+  "objection": "Ara és gratis, però d'aquí a un any em cobraran comissió, i mentrestant els perfils estaran buits de valoracions. No sé qui hi ha darrere de cada perfil.",
+  "would_change_my_mind": "Que algú del grup de WhatsApp de l'escola em recomanés una persona concreta de WoFa amb moltes valoracions reals i foto.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 13,
+  "price_too_expensive": 16
+}

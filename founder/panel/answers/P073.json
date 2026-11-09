@@ -1,0 +1,13 @@
+{
+  "id": "P073",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Provo apps noves sense problema, però per a un cangur o algú que passegi el gos ja tinc la veïna o algú del grup de pares i li pago en mà. Amb el sou que tinc no vull diners retinguts a la targeta per una cosa que ja resolc sense web.",
+  "objection": "Per què he de pagar per avançat amb targeta si puc pagar en mà? I d'aquí un any hi haurà comissió, així que acabaré pagant més per el mateix.",
+  "would_change_my_mind": "Que em surti algú de confiança molt a prop amb bones valoracions un dia que ningú del meu entorn pugui fer de cangur, i poder pagar quan acabi la feina.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 15
+}

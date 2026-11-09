@@ -1,0 +1,13 @@
+{
+  "id": "P068",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ja baixo el gos jo abans i després de la feina, i si un dia em falla pregunto al grup del barri i algun veí o la meva germana s'hi apunta. No donaria les claus de casa ni el gos a un desconegut d'una web només perquè té quatre estrelles.",
+  "objection": "Ara és gratis, però d'aquí a un any em cobraran comissió, i 13-20 € per passeig és massa per al que guanyo; a més, no sé qui és aquesta gent.",
+  "would_change_my_mind": "Que algú del meu grup de WhatsApp del barri me'n recomanés un passejador concret que ja coneix, i a un preu de 10 € o menys pel passeig del migdia.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 13,
+  "price_too_expensive": 18
+}

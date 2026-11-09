@@ -1,0 +1,13 @@
+{
+  "id": "P072",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "El gos ja el baixo jo abans i després de la feina, i 13-20 € per passeig és massa per al que guanyo; si algun dia em cal, li demano a un veí o a un nebot i li dono deu euros en mà.",
+  "objection": "Que posin una persona desconeguda amb el meu gos o a casa meva i, si passa alguna cosa, només tinc unes valoracions a la web i una reclamació; no sé qui verifica aquesta gent ni qui respon de veritat.",
+  "would_change_my_mind": "Que hi hagués passejadors verificats amb DNI i assegurança per menys de 10 € el passeig, per als dies que plego tard.",
+  "price_too_cheap": 4,
+  "price_cheap": 7,
+  "price_expensive": 11,
+  "price_too_expensive": 15
+}
