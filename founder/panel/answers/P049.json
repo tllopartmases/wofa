@@ -1,0 +1,13 @@
+{
+  "id": "P049",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Provo apps noves sense problema, però una cosa és comprar menjar a Too Good To Go i una altra és deixar un desconegut amb els nens o dins del pis. Unes quantes estrelles d'altres usuaris no em bastarien, sobretot en una web nova amb pocs perfils.",
+  "objection": "No sé qui és aquesta persona. No veig que es comprovi la identitat ni els antecedents, i el pagament retingut em torna els diners, però no em protegeix els fills.",
+  "would_change_my_mind": "Que la persona estigués verificada (DNI i certificat de delictes sexuals per als cangurs) o que me la recomanés algú conegut del barri, i poder fer una primera trobada curta abans de contractar-la.",
+  "price_too_cheap": 6,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 15
+}

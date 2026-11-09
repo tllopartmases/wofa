@@ -1,0 +1,39 @@
+{
+  "business": "WoFa (wofa.cat), marketplace de petites feines entre veïns a Girona",
+  "target": "Adults de Girona i rodalies, 25 a 70 anys, que de tant en tant necessiten algú per a una feina de casa o de família (cangur, passejar el gos, classes, jardí, neteja)",
+  "where": "Girona ciutat i rodalies (Salt, Sarrià de Ter)",
+  "age": [25, 70],
+  "segments": [
+    {"name": "Família amb fills petits o en edat escolar", "share": 0.40, "income": [26000, 60000]},
+    {"name": "Persona amb gos o jardí que treballa fora tot el dia", "share": 0.25, "income": [22000, 55000]},
+    {"name": "Fill o filla adult que cuida un pare o una mare gran", "share": 0.20, "income": [24000, 60000]},
+    {"name": "Jove o estudiant que viu de lloguer", "share": 0.15, "income": [9000, 22000]}
+  ],
+  "behaviours": [
+    {"name": "Boca-orella", "share": 0.25, "how": "Quan necessita algú, pregunta al grup de WhatsApp del barri, de l'escola o a la família."},
+    {"name": "Ja té algú de confiança", "share": 0.15, "how": "Té una cangur, una veïna o un noi que ja li fa la feina des de fa temps."},
+    {"name": "Llegeix totes les ressenyes", "share": 0.15, "how": "No contracta ningú sense veure valoracions reals i una cara."},
+    {"name": "Busca el més barat", "share": 0.15, "how": "Compara preus i tria el més econòmic, encara que sigui pagant en efectiu."},
+    {"name": "Urgència d'última hora", "share": 0.15, "how": "Normalment busca algú el mateix dia o l'endemà, quan ja no té alternativa."},
+    {"name": "Prova apps noves", "share": 0.10, "how": "Fa servir apps per a tot (Wallapop, Glovo, Too Good To Go) i prova les noves."},
+    {"name": "Desconfiat amb el digital", "share": 0.05, "how": "Prefereix trucar o conèixer la persona abans que fer res per internet."}
+  ],
+  "objections": [
+    "No deixaria entrar a casa (o amb els meus fills) algú que no conec",
+    "Ja tinc algú, o ho demano al grup de WhatsApp i és gratis",
+    "Segur que encara hi ha molt poca gent apuntada a Girona",
+    "Per què he de pagar per avançat amb targeta si puc pagar en mà",
+    "Ara és gratis, però després em cobraran comissió",
+    "Una altra app més on registrar-me",
+    "Com sé que la persona està verificada i que si passa alguna cosa algú respon"
+  ],
+  "habits": [
+    "porta els fills a l'escola cada matí i té el grup de WhatsApp de la classe",
+    "treballa fins a les 18:00 i arriba cansat/da a casa",
+    "té el pare o la mare gran a Girona i hi va dos cops per setmana",
+    "fa servir Wallapop per vendre i comprar coses de segona mà",
+    "baixa el gos abans i després de la feina",
+    "viu en un pis compartit prop de la universitat"
+  ],
+  "_notes": "Categories, ciutat i preus surten de l'app real de WoFa (ofertes actives a Base44, novembre 2026): cangur 8-12 EUR/h, passejar gossos 13-20 EUR, classes 8-15 EUR/h, jardí a convenir. Les quotes de segments, ingressos, comportaments i objeccions són estimacions de Claude, sense dades d'enquesta."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "La web és nova i no hi diu enlloc que la gent estigui verificada; un perfil amb quatre valoracions d'una plataforma que acaba de començar no em basta per donar la clau de casa i el gos a un desconegut. A més, a 13-20 € el passeig, amb el que guanyo, ja el baixo jo abans i després de la feina.",
+  "objection": "Com sé que la persona està verificada i que, si passa alguna cosa amb el gos o a casa, algú de debò respon i no només un formulari de reclamació?",
+  "would_change_my_mind": "Que comprovin el DNI de cada persona i que hi hagi una assegurança o un telèfon de contacte real si passa res, i veure valoracions de veïns que conec o una primera trobada amb la persona abans.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 13,
+  "price_too_expensive": 18
+}

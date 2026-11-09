@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Una web nova vol dir perfils sense gaires valoracions, i jo no poso ningú a casa ni amb la família sense ressenyes de veritat i haver-li vist la cara. Tal com estic ara, entre la feina i anar a Girona dos cops per setmana a veure la mare, tiro de gent coneguda i del boca-orella.",
+  "objection": "Ara és gratis, però d'aquí a un any em cobraran comissió, i mentrestant els perfils seran de gent nova sense valoracions que no sé qui són.",
+  "would_change_my_mind": "Que un veí o un conegut de confiança em recomanés una persona concreta de la web amb moltes valoracions reals i la pogués conèixer en persona abans.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 14,
+  "price_too_expensive": 20
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Quan necessito algú per al gos o el jardí ho pregunto al grup de WhatsApp del barri i sempre surt algun conegut de confiança. No deixaré entrar a casa, ni el meu gos, a un desconegut d'una web nova on segur que encara hi ha quatre gats apuntats a Girona.",
+  "objection": "Segur que encara hi ha molt poca gent apuntada a Girona, i unes valoracions de dos o tres clients no em diuen res; prefereixo algú que algun veí o familiar em recomani.",
+  "would_change_my_mind": "Que algú del meu grup de WhatsApp del barri o de la família m'ho recomanés perquè ja l'ha fet servir i li ha anat bé, amb gent del meu barri disponible a les hores que treballo.",
+  "price_too_cheap": 6,
+  "price_cheap": 10,
+  "price_expensive": 17,
+  "price_too_expensive": 24
+}

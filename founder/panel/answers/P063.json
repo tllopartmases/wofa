@@ -1,0 +1,13 @@
+{
+  "id": "P063",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Quan necessito algú, el necessito avui mateix i ho soluciono trucant a una veïna o mirant a Wallapop, i pago en mà. No penso posar la targeta en una web nova que no conec per una feina de dues hores.",
+  "objection": "Per què he de pagar per avançat amb targeta a una web desconeguda si puc pagar en mà quan la feina està feta? I no sé si trobaré algú disponible el mateix dia.",
+  "would_change_my_mind": "Que em recomanés la web algú del barri que ja l'hagi fet servir i que hi hagi gent disponible per a avui mateix, amb opció de pagar en mà.",
+  "price_too_cheap": 6,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 15
+}

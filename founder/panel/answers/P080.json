@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No deixaria els meus fills amb algú que només he vist en una web, i pagar amb targeta per internet a un desconegut no m'agrada gens. Per a cangurs prefereixo algú que em recomanin al cole o una veïna que conec.",
+  "objection": "Ara és gratis, però després em cobraran comissió, i a més no sé qui hi ha darrere ni qui és realment la persona que ve a casa; unes valoracions a internet es poden inventar.",
+  "would_change_my_mind": "Poder trucar a una persona de WoFa o conèixer abans la cangur en persona, i que me la recomani algú de confiança del barri o de l'escola.",
+  "price_too_cheap": 6,
+  "price_cheap": 8,
+  "price_expensive": 11,
+  "price_too_expensive": 14
+}

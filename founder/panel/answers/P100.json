@@ -1,0 +1,13 @@
+{
+  "id": "P100",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ja tinc la veïna que em fa de cangur des de fa anys i, si em falla, ho demano al grup de WhatsApp del barri i algú s'hi apunta. No veig per què hauria de pagar amb targeta a una web per una cosa que ja tinc resolta.",
+  "objection": "Ja tinc algú de confiança i gratis o gairebé; a més, quan s'acabin els 12 mesos gratuïts em cobraran una comissió per una cosa que avui no em costa res.",
+  "would_change_my_mind": "Que la meva veïna o la meva gent de confiança deixés de poder-ho fer i al grup de WhatsApp ningú respongués; llavors potser hi provaria per les valoracions.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 15
+}

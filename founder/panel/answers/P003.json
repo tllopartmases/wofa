@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Per al meu pare ja tinc la veïna que l'ajuda fa anys i hi confio; no deixaria entrar a casa seva un desconegut d'una web nova només per unes valoracions. Potser per una feina puntual, com el jardí, però aquest mes no ho necessito.",
+  "objection": "No diu enlloc que verifiquin la identitat ni els antecedents de qui ve, i si passa alguna cosa amb el meu pare, una reclamació per recuperar els diners no em serveix de res.",
+  "would_change_my_mind": "Que les persones estiguin verificades de debò (DNI, antecedents) i que hi hagi una assegurança o algú de WoFa que respongui per telèfon si hi ha un problema.",
+  "price_too_cheap": 7,
+  "price_cheap": 10,
+  "price_expensive": 15,
+  "price_too_expensive": 20
+}

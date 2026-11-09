@@ -1,0 +1,13 @@
+{
+  "id": "P097",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito algú per cuidar la mare o per una feina de casa, ho pregunto al grup de WhatsApp i em recomanen algú de confiança, sense targetes ni webs. No veig per què hauria de pagar per una plataforma per una cosa que ja em soluciona el veïnat.",
+  "objection": "Ara és gratis, però d'aquí a un any em cobraran comissió per cada feina, i amb el que guanyo cada euro compta. A més, unes valoracions d'estranys no em donen la confiança que em dona una recomanació d'algú que conec.",
+  "would_change_my_mind": "Que algú del meu grup de WhatsApp o de la família m'hi recomanés una persona concreta que ja hagi fet bona feina, i saber per escrit quina comissió cobraran després.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 14,
+  "price_too_expensive": 18
+}

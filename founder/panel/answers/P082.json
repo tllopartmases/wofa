@@ -1,0 +1,13 @@
+{
+  "id": "P082",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Quan necessito algú per acompanyar la mare o fer una mica de neteja, ho pregunto a la veïna o a algú de confiança i li pago en mà, sense comissions. No veig per què he de passar per una web i pagar per avançat amb targeta.",
+  "objection": "Per què he de pagar per avançat amb targeta si puc pagar en mà? Ara és gratuït, però després hi posaran una comissió i acabaré pagant més del que pagaria directament.",
+  "would_change_my_mind": "Poder pagar en efectiu directament a la persona i que trobés algú del barri clarament més barat que el que ja conec, amb bones valoracions.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 16
+}

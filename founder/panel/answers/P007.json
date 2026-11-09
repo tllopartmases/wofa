@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Visc en un pis compartit i les poques feines que necessito ja me les fa algú de confiança, en mà i sense apps. No veig per què hauria de pagar amb targeta a una web per una cosa que ja tinc resolta.",
+  "objection": "Ara és gratis, però d'aquí a un any em cobraran comissió per cada feina, i amb el que guanyo no vull afegir cap cost a res.",
+  "would_change_my_mind": "Que la persona que ja tinc deixés de poder venir i necessités trobar algú de seguida a prop, amb valoracions de gent real del barri.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 16
+}

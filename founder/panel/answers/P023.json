@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Amb 11.000 € l'any i vivint en un pis compartit, gairebé no pago ningú per fer feines; i si un dia necessito algú, ho pregunto al grup de WhatsApp, on sé qui és qui. Unes valoracions d'una web que acaba de començar no em diuen res sobre un desconegut.",
+  "objection": "No deixaria entrar a casa algú que no conec només perquè té un perfil amb estrelles; i en una web nova hi haurà poques valoracions, i a més no sé si comproven qui és la persona.",
+  "would_change_my_mind": "Que algú del meu grup de WhatsApp o una amiga me la recomanés i em digués que ha fet servir aquella persona concreta i que va anar bé.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 16
+}

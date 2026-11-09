@@ -1,0 +1,13 @@
+{
+  "id": "P050",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ja tinc la veïna i el noi de sempre que em fan aquestes coses, i si no, ho demano al grup de WhatsApp i surt gratis o per quatre duros en mà. Amb el que guanyo no em puc permetre pagar 10 o 15 euros l'hora per coses que ja tinc resoltes.",
+  "objection": "No conec ningú d'aquesta web; prefereixo algú de confiança de tota la vida que no pas un desconegut amb estrelletes, i a més haver de pagar amb targeta per avançat i que després hi hagi comissió no m'agrada.",
+  "would_change_my_mind": "Que la meva veïna o el noi de sempre deixessin de poder venir i no trobés ningú al grup de WhatsApp; llavors potser hi miraria per una feina puntual.",
+  "price_too_cheap": 5,
+  "price_cheap": 7,
+  "price_expensive": 11,
+  "price_too_expensive": 15
+}

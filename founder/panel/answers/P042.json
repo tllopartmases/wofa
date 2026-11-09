@@ -1,0 +1,13 @@
+{
+  "id": "P042",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "El que jo necessito és algú que cuidi la meva mare quan em surt un imprevist, i aquí parlen de cangurs, gossos i classes. Quan tinc pressa, escric al grup de WhatsApp i algú m'ajuda sense pagar res.",
+  "objection": "No deixaria la meva mare amb un desconegut d'una web nova només per unes quantes valoracions, i el mateix dia no sé si hi trobaria ningú disponible.",
+  "would_change_my_mind": "Que hi hagués persones verificades per acompanyar gent gran, disponibles el mateix dia, recomanades per algú que conec.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 14,
+  "price_too_expensive": 18
+}

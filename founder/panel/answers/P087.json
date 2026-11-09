@@ -1,0 +1,13 @@
+{
+  "id": "P087",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "La veïna ja em passeja el gos des de fa anys, li pago en mà i ens entenem; no tinc cap motiu per canviar a una web i a una persona que no conec.",
+  "objection": "Ara és gratis, però d'aquí un any em cobraran comissió per cada feina, i amb el que guanyo no em puc permetre pagar extra per una cosa que ja tinc resolta.",
+  "would_change_my_mind": "Que la veïna deixés de poder fer-ho i necessités algú de cop, amb preus clars i sense comissió per a mi.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 13,
+  "price_too_expensive": 18
+}

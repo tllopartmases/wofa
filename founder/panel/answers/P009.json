@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Per deixar els meus fills amb algú no em fio d'un perfil i unes estrelles a una web; jo vull trucar, conèixer la persona i que me la recomani algú del barri o de l'escola. Ara ja ho soluciono així, amb la veïna o una noia que ens va recomanar una altra mare.",
+  "objection": "Pagar per avançat amb targeta a una web que no conec, i això de gratis 12 mesos: després em cobraran comissió i a sobre la persona apujarà el preu per cobrir-la.",
+  "would_change_my_mind": "Poder parlar per telèfon o veure en persona el veí abans de reservar, i que algú de confiança de Girona me'l recomanés.",
+  "price_too_cheap": 6,
+  "price_cheap": 8,
+  "price_expensive": 12,
+  "price_too_expensive": 15
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P084",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quan necessito un cangur o algú per als nens ho demano a una veïna o a una estudiant del pis i li pago en efectiu, més barat que 8-12 € l'hora. No veig per què hauria de passar per una web i pagar amb targeta.",
+  "objection": "Segur que a Girona encara hi ha quatre gats apuntats, i a més s'ha de pagar amb targeta i d'aquí a un any posaran comissió, així que acabarà sortint més car que fer-ho pel meu compte.",
+  "would_change_my_mind": "Veure que hi ha gent del meu barri apuntada que cobra menys que el que pago ara, i poder pagar en efectiu sense comissió.",
+  "price_too_cheap": 4,
+  "price_cheap": 6,
+  "price_expensive": 9,
+  "price_too_expensive": 12
+}

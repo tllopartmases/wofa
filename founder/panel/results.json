@@ -1,0 +1,273 @@
+{
+ "business": "WoFa (wofa.cat), marketplace de petites feines entre veïns a Girona",
+ "seed": 2026,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 5,
+ "passes": 95,
+ "buy_rate": 0.05,
+ "by_segment": [
+  [
+   "Persona amb gos o jardí que treballa fora tot el dia",
+   25,
+   0.12
+  ],
+  [
+   "Família amb fills petits o en edat escolar",
+   40,
+   0.05
+  ],
+  [
+   "Fill o filla adult que cuida un pare o una mare gran",
+   20,
+   0.0
+  ],
+  [
+   "Jove o estudiant que viu de lloguer",
+   15,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Prova apps noves",
+   10,
+   0.5
+  ],
+  [
+   "Urgència d'última hora",
+   15,
+   0.0
+  ],
+  [
+   "Boca-orella",
+   25,
+   0.0
+  ],
+  [
+   "Ja té algú de confiança",
+   15,
+   0.0
+  ],
+  [
+   "Llegeix totes les ressenyes",
+   15,
+   0.0
+  ],
+  [
+   "Desconfiat amb el digital",
+   5,
+   0.0
+  ],
+  [
+   "Busca el més barat",
+   15,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$31,000 to $46,000",
+   33,
+   0.09090909090909091
+  ],
+  [
+   "$46,000 and up",
+   34,
+   0.058823529411764705
+  ],
+  [
+   "under $31,000",
+   33,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   42,
+   [
+    "Quan em fa falta algú és sempre a última hora, i en aquell moment no deixaré els meus fills ni les claus de casa a un desconegut perquè té quatre estrelles en una web nova. Acabo trucant a la veïna o a la meva germana, encara que sigui un favor.",
+    "Per al meu pare ja tinc la veïna que l'ajuda fa anys i hi confio; no deixaria entrar a casa seva un desconegut d'una web nova només per unes valoracions. Potser per una feina puntual, com el jardí, però aquest mes no ho necessito."
+   ],
+   [
+    "P001",
+    "P003"
+   ]
+  ],
+  [
+   "habit",
+   37,
+   [
+    "Quan necessito una cangur o algú per al gos, ho pregunto al grup de WhatsApp de l'escola i en dues hores tinc tres noms de gent que algú coneix. No veig per què hauria de buscar en una web nova on segur que encara hi ha quatre gats apuntats a Girona.",
+    "Visc en un pis compartit i les poques feines que necessito ja me les fa algú de confiança, en mà i sense apps. No veig per què hauria de pagar amb targeta a una web per una cosa que ja tinc resolta."
+   ],
+   [
+    "P002",
+    "P007"
+   ]
+  ],
+  [
+   "price",
+   9,
+   [
+    "Amb 13.000 euros l'any no em sobra res, i si necessito que algú ajudi la mare o el pare amb alguna cosa, ho demano a un veí o a algú del barri i li pago en mà, més barat. No veig per què he de passar per una web i pagar amb targeta per avançat.",
+    "Per cangur ja tinc la filla d'una veïna o la meva mare, i li pago 7-8 euros en efectiu i llestos. A 8-12 €/hora amb targeta no m'estalvio res, i quan acabin els 12 mesos gratis hi afegiran la comissió."
+   ],
+   [
+    "P015",
+    "P062"
+   ]
+  ],
+  [
+   "need",
+   5,
+   [
+    "Visc en un pis compartit, no tinc fills, ni gos, ni jardí, i la neteja la fem entre els companys. Amb 16.000 € l'any no pago ningú perquè em faci feines de casa; com a molt m'hi registraria per fer jo cangurs o classes i guanyar uns calerons.",
+    "El que jo necessito és algú que cuidi la meva mare quan em surt un imprevist, i aquí parlen de cangurs, gossos i classes. Quan tinc pressa, escric al grup de WhatsApp i algú m'ajuda sense pagar res."
+   ],
+   [
+    "P019",
+    "P042"
+   ]
+  ],
+  [
+   "convenience",
+   2,
+   [
+    "Jo sempre busco algú el mateix dia o l'endemà, quan ja no tinc alternativa, i amb una web nova a Girona dubto que algú em contesti a temps. Amb el que guanyo, quan vaig apurat truco a un veí o a algú de confiança del pare abans de provar una web.",
+    "Quan necessito algú és per avui o demà i ja vaig de bòlit; llavors pregunto al grup de WhatsApp de l'escola, que em contesten en deu minuts. Una web nova on segurament encara hi ha quatre gats a Girona no em garanteix que hi hagi algú lliure a temps."
+   ],
+   [
+    "P051",
+    "P081"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   3,
+   [
+    "Treballo fora tot el dia i entre setmana vaig a Girona a veure la mare, així que el gos es queda sol massa hores; com que és gratuït i els diners queden retinguts, ho provaria una vegada per passejar-lo, com vaig provar Wallapop.",
+    "Passo tot el dia fora i el gos es queda sol, així que algun dia que plego tard sí que pagaria perquè un veí el tregui. Ho provaria com provo totes les apps, però només els dies que realment no arribo, no cada dia: a 13-20 € per passejada no m'ho puc permetre de forma fixa."
+   ],
+   [
+    "P006",
+    "P030"
+   ]
+  ],
+  [
+   "convenience",
+   2,
+   [
+    "M'agrada provar apps noves i el pagament retingut fins que confirmo em dona una mica de tranquil·litat, així que ho provaria una vegada per a alguna cosa de poc risc, com classes de repàs per al petit. Per deixar-hi els fills com a cangur, de moment continuaria preguntant al grup de WhatsApp de la classe.",
+    "Ho provaria perquè provo totes les apps noves i el primer any és gratis; potser unes classes de repàs per al meu fill, que és el que no em resol el grup de WhatsApp. Per al cangur, de moment continuaria amb qui ja conec."
+   ],
+   [
+    "P040",
+    "P052"
+   ]
+  ]
+ ],
+ "flip": [
+  "Que algú de confiança (una mare de l'escola o una veïna) me la recomanés personalment, o que la web comprovés de debò la identitat i els antecedents de qui fa de cangur.",
+  "Que una altra mare del grup de la classe em digués que hi ha trobat una cangur del barri i que va anar bé.",
+  "Que les persones estiguin verificades de debò (DNI, antecedents) i que hi hagi una assegurança o algú de WoFa que respongui per telèfon si hi ha un problema.",
+  "Que un altre pare de l'escola o un veí que conec m'hi recomani una persona concreta amb moltes valoracions reals, i poder conèixer-la en persona abans.",
+  "Que una altra mare de l'escola a qui conec me'n recomanés una persona concreta que ja hagi fet servir, amb moltes valoracions reals i havent-la pogut conèixer en persona abans.",
+  "Que la persona que ja tinc deixés de poder venir i necessités trobar algú de seguida a prop, amb valoracions de gent real del barri.",
+  "Que una mare del grup de l'escola o una veïna que conec m'hi recomanés una persona concreta que ja hagi fet feina per a ella.",
+  "Poder parlar per telèfon o veure en persona el veí abans de reservar, i que algú de confiança de Girona me'l recomanés.",
+  "Que la meva veïna deixés de poder-ho fer i algú de confiança em recomanés una persona concreta de la web.",
+  "Que algú del meu grup de WhatsApp o de la família me la recomanés perquè ha trobat algú bo i proper a través seu, sobretot per fer companyia o petites feines al pare a Girona.",
+  "Que algú de confiança del meu entorn m'hi recomanés una persona concreta i que la web verifiqués DNI i antecedents i tingués un telèfon on algú respon de debò si hi ha un problema.",
+  "Que la meva cangur de sempre no pogués un dia i algú del grup de WhatsApp de l'escola em recomanés una persona concreta de la web que ja coneguin.",
+  "Que alguna mare o pare del grup de l'escola em digués que hi ha trobat una cangur de confiança a prop de casa i que va anar bé.",
+  "Poder pagar en efectiu directament a la persona, o trobar-hi algú clarament més barat que el que trobo pel meu compte.",
+  "Que un veí o un conegut de confiança em recomanés una persona concreta de la web amb moltes valoracions reals i la pogués conèixer en persona abans.",
+  "Que una mare del grup de l'escola em digués que hi ha trobat algú de confiança per passejar el gos el mateix dia, en poques hores.",
+  "Que la persona me la recomanés algú que conec, per exemple un altre pare del grup de l'escola que ja l'hagi fet servir, i que estigués disponible el mateix dia.",
+  "Que hi hagués algú que em fes classes d'idiomes o de repàs per a la uni de manera puntual a menys de 10 €/hora, sense comissió extra.",
+  "Que alguna veïna o algú del grup del barri m'ho recomanés perquè hi ha trobat algú de confiança a prop de casa, i que pogués pagar en efectiu.",
+  "Que un dia el meu cercle no tingui ningú i a la web trobi algú amb bones valoracions a prop disponible aquell mateix dia; si funciona a la primera, hi tornaria.",
+  "Veure un passejador a prop de casa amb moltes valoracions reals d'altres veïns de Girona, amb foto i poder conèixe'l en persona abans del primer passeig.",
+  "Que algú del meu grup de WhatsApp o una amiga me la recomanés i em digués que ha fet servir aquella persona concreta i que va anar bé.",
+  "Que algú de confiança del grup de l'escola o del barri me la recomanés dient que hi ha trobat una persona bona i propera.",
+  "Veure que les persones estan verificades (DNI i certificat de delictes sexuals per als cangurs) i que hi ha una persona de contacte a Girona que respon, amb ressenyes reals de gent que conec.",
+  "Veure cangurs del meu barri amb foto i moltes valoracions de famílies que conec o que em recomana algú de l'escola.",
+  "Que algú del meu grup de WhatsApp del barri o de la família m'ho recomanés perquè ja l'ha fet servir i li ha anat bé, amb gent del meu barri disponible a les hores que treballo.",
+  "Veure que les persones estan verificades amb DNI i que tenen moltes valoracions reals de veïns de Girona, amb foto, i saber que hi ha una persona que respon si hi ha un problema.",
+  "Que comprovin el DNI de cada persona i que hi hagi una assegurança o un telèfon de contacte real si passa res, i veure valoracions de veïns que conec o una primera trobada amb la persona abans.",
+  "Que la meva veïna deixés de poder venir i algú del grup de WhatsApp de l'escola em recomanés una persona concreta de WoFa amb identitat verificada i una assegurança clara si passa res.",
+  "Veure perfils amb foto real i moltes valoracions de veïns de Girona que conec o que em recomanin al grup de WhatsApp, i poder conèixer la persona abans de pagar res.",
+  "Que la veïna em fallés i que la web garantís per escrit que les persones estan verificades (DNI i antecedents) i que hi ha una assegurança o algú amb nom i telèfon que respon si hi ha un problema.",
+  "Que algú del grup de pares de l'escola o del barri me la recomani perquè l'ha fet servir i li ha anat bé, i que hi hagi gent del meu barri amb moltes valoracions.",
+  "Que una persona de confiança del barri m'hi recomanés algú concret amb bones valoracions i a un preu clarament més baix que el que pago ara.",
+  "Que la meva persona de confiança deixés de poder i necessités algú ràpid, o fer-hi jo feinetes per guanyar uns calerons.",
+  "Que la persona de confiança que tinc deixés de poder venir i que la web mostrés clarament que verifiquen el DNI i antecedents i que hi ha una assegurança si passa alguna cosa.",
+  "Que algú del meu grup de WhatsApp o un veí de confiança me la recomanés perquè ja l'ha fet servir i li ha anat bé.",
+  "Que un veí o algú que conec de veritat m'hi recomani una persona concreta que ja hagi fet feines a casa seva.",
+  "Que una veïna o una mare de l'escola em digués que l'ha fet servir i que la persona que li va venir era de fiar.",
+  "Que hi hagués persones verificades per acompanyar gent gran, disponibles el mateix dia, recomanades per algú que conec.",
+  "Que algú del meu grup de pares o del barri m'hi recomanés una persona concreta que ja ha fet servir i de qui es fia.",
+  "Que un veí o pare de l'escola me'n recomani un cangur concret amb moltes valoracions reals i verificades, i poder-lo conèixer en persona abans.",
+  "Que alguna mare de l'escola o una veïna de confiança me la recomanés perquè hi ha trobat una cangur bona quan la nostra de sempre no podia.",
+  "Que una persona de la zona amb moltes valoracions reals i verificades, i que pugui conèixer abans en persona, s'ofereixi per fer de cangur o passejar el gos.",
+  "Que algú de confiança del meu grup de WhatsApp o de la família m'hi recomanés una persona concreta que ja hagi fet feina per a ells.",
+  "Que algú de confiança del meu grup de WhatsApp m'hi recomani una persona concreta amb bones valoracions, i poder pagar en mà o sense comissió.",
+  "Que la persona estigués verificada (DNI i certificat de delictes sexuals per als cangurs) o que me la recomanés algú conegut del barri, i poder fer una primera trobada curta abans de contractar-la.",
+  "Que la meva veïna o el noi de sempre deixessin de poder venir i no trobés ningú al grup de WhatsApp; llavors potser hi miraria per una feina puntual.",
+  "Veure que a Girona hi ha prou gent disponible per respondre en poques hores, per exemple que un conegut m'ho digui després d'haver-ho fet servir amb una urgència.",
+  "Que una veïna o algú del barri que conec m'hi recomanés una persona concreta que ja hagi ajudat gent gran i que pugui venir el mateix dia.",
+  "Veure que al meu barri hi ha diverses persones amb bones valoracions que accepten encàrrecs per al mateix dia.",
+  "Que verifiquessin la identitat i els antecedents de cada persona, i que algú de confiança me la recomanés; i saber que puc trobar algú el mateix dia.",
+  "Que el meu contacte habitual falli una setmana que treballo tot el dia i algú del grup del barri em recomani una persona concreta que sigui a WoFa.",
+  "Que algú de confiança del meu grup de WhatsApp em passés un perfil concret de WoFa d'una persona que ja ha fet feines per a gent que conec.",
+  "Que la veïna deixés de poder venir i que la persona de WoFa me la recomanés algú que conec, o que es pogués fer una primera trobada amb mi present abans de deixar-la sola amb ell.",
+  "Que algú del grup de l'escola o un veí que conec em digui que ha trobat algú de confiança a WoFa, i un dia que la família no pugui i necessiti algú amb urgència.",
+  "Que la meva veïna deixés de poder-ho fer i algú de confiança em recomanés una persona concreta de la web que ja hagi treballat per a ell.",
+  "Que comprovessin el DNI i el certificat de delictes sexuals de tothom que fa de cangur, i que hi hagués una persona de Girona amb telèfon que respongués si passa alguna cosa.",
+  "Que hi hagués gent pel meu barri clarament més barata que el que pago ara, i que em garantissin per escrit que la comissió serà petita o que la paga el qui fa la feina.",
+  "Que em recomanés la web algú del barri que ja l'hagi fet servir i que hi hagi gent disponible per a avui mateix, amb opció de pagar en mà.",
+  "Que una altra mare del grup de l'escola m'hi recomanés una cangur concreta que ja hagi fet servir i que sàpiga que respon el mateix dia.",
+  "Veure un passejador de gossos a prop de casa amb foto, identitat verificada i almenys deu o quinze valoracions reals de gent de Girona, i saber des d'ara quina comissió cobraran.",
+  "Que algú que conec personalment (una mare de l'escola, un veí) m'hi recomanés una persona concreta que ja hagi fet de cangur per a ells, o que la web comprovés antecedents penals i identitat.",
+  "Poder trucar a una persona de WoFa o conèixer abans en persona qui vindria, recomanat per algú del barri que conegui.",
+  "Que algú del meu grup de WhatsApp del barri me'n recomanés un passejador concret que ja coneix, i a un preu de 10 € o menys pel passeig del migdia.",
+  "Que hi hagués algú a prop que passegés el gos per menys de 8 € i que el pogués provar sense registrar-me amb la targeta.",
+  "Que algú de confiança del meu entorn la fes servir i veure perfils amb moltes valoracions reals, foto i cara, d'algú que visqui a prop.",
+  "Que una mare de l'escola o una veïna de confiança m'hi recomanés una persona concreta que ella ja ha fet servir.",
+  "Que hi hagués passejadors verificats amb DNI i assegurança per menys de 10 € el passeig, per als dies que plego tard.",
+  "Que em surti algú de confiança molt a prop amb bones valoracions un dia que ningú del meu entorn pugui fer de cangur, i poder pagar quan acabi la feina.",
+  "Que em sortís una necessitat concreta que el meu grup no pot cobrir, per exemple una classe d'idiomes barata a prop de casa amb bones valoracions.",
+  "Que la persona me la recomanés algú que conec de debò, un veí o un familiar, i que fos més barat que demanar-ho al boca-orella.",
+  "Que algú del meu grup de WhatsApp o una amiga em digui que l'ha fet servir i que la persona era de confiança, o que hi trobi algú que ja conec del barri.",
+  "Que algú del grup de WhatsApp de l'escola em recomanés una persona concreta de WoFa amb moltes valoracions reals i foto.",
+  "Poder parlar per telèfon o conèixer la persona en persona abans, i pagar-li directament en mà, recomanada per algú de confiança.",
+  "Poder trucar a una persona de WoFa o conèixer abans la cangur en persona, i que me la recomani algú de confiança del barri o de l'escola.",
+  "Que algú del grup de pares de l'escola me la recomanés dient que hi va trobar cangur el mateix dia, i veure que hi ha molts perfils a prop de casa amb valoracions.",
+  "Poder pagar en efectiu directament a la persona i que trobés algú del barri clarament més barat que el que ja conec, amb bones valoracions.",
+  "Que algú de confiança del barri que ja conec només s'hi pogués contractar a través de WoFa i que sortís igual o més barat que pagant-li en mà.",
+  "Veure que hi ha gent del meu barri apuntada que cobra menys que el que pago ara, i poder pagar en efectiu sense comissió.",
+  "Poder pagar en efectiu o directament a la persona, i que el passeig del gos sortís clarament més barat que el que em cobraria un estudiant pel meu compte, per sota de 10 €.",
+  "Que hi hagués acompanyament o ajuda puntual per a gent gran (fer-li companyia unes hores, acompanyar-la al metge) amb persones verificades i a un preu per sota de 10 €/hora.",
+  "Que la veïna deixés de poder fer-ho i necessités algú de cop, amb preus clars i sense comissió per a mi.",
+  "Poder trucar a una persona de WoFa per telèfon i conèixer abans la persona que vindria, amb identitat comprovada, i que una veïna de confiança me l'hagués fet servir.",
+  "Que una persona de confiança del meu entorn em recomanés algú concret de la web i pogués veure moltes valoracions reals, amb foto i identitat verificada, i conèixer-la en persona abans.",
+  "Que comprovessin el DNI i els antecedents de la persona i que un passeig de gos costés uns 7-8 euros, com el que pago ara.",
+  "Que un dia no em pugui ajudar ningú del meu entorn i hi trobi algú del barri recomanat per algú que conec, més barat que el que trobo a Wallapop o pel boca-orella.",
+  "Que hi hagués algú de confiança a prop del pare per fer-li companyia o petits encàrrecs els dies que no hi puc anar, a un preu clarament més baix que el que ja trobo pel meu compte.",
+  "Un dia que el WhatsApp no em resolgui res i vegi que a WoFa algú amb bones valoracions accepta la feina en poques hores.",
+  "Que un dia el grup de WhatsApp no em resolgui res i veure a la web algú del meu barri amb bones valoracions que pugui venir el mateix dia.",
+  "Que algun pare o mare de l'escola em digués que hi ha trobat un cangur bo i de confiança, i que fos algú del meu barri.",
+  "Que algú del meu grup de WhatsApp o de la família m'hi recomanés una persona concreta que ja hagi fet feines bé a algú que conec.",
+  "Que algú del meu grup de WhatsApp o de la família m'hi recomanés una persona concreta que ja hagi fet bona feina, i saber per escrit quina comissió cobraran després.",
+  "Que la meva veïna deixés de poder-ho fer i que algú del grup de WhatsApp de l'escola em recomanés personalment una persona concreta de la web.",
+  "Si la meva veïna no pogués un temps i algú de confiança del barri em recomanés directament una persona concreta de la web.",
+  "Que la meva veïna o la meva gent de confiança deixés de poder-ho fer i al grup de WhatsApp ningú respongués; llavors potser hi provaria per les valoracions."
+ ],
+ "purchases_first_month_per_buyer": 1.4,
+ "price_answers": 100
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P066",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No deixaria els meus fills amb algú que he trobat en una web nova només perquè té unes quantes estrelles. Quan em falla tot a última hora, truco a la meva germana o a una veïna que ja conec, no a un desconegut.",
+  "objection": "Unes valoracions en un perfil no em diuen qui és aquesta persona ni si és segura amb nens; i si la web és nova, gairebé ningú tindrà valoracions encara. A més, que em retinguin els diners no em serveix de res si el problema és amb els meus fills.",
+  "would_change_my_mind": "Que algú que conec personalment (una mare de l'escola, un veí) m'hi recomanés una persona concreta que ja hagi fet de cangur per a ells, o que la web comprovés antecedents penals i identitat.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 11,
+  "price_too_expensive": 14
+}

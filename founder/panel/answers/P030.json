@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "need",
+  "reason": "Passo tot el dia fora i el gos es queda sol, així que algun dia que plego tard sí que pagaria perquè un veí el tregui. Ho provaria com provo totes les apps, però només els dies que realment no arribo, no cada dia: a 13-20 € per passejada no m'ho puc permetre de forma fixa.",
+  "objection": "Ara és gratis, però d'aquí a un any em clavaran una comissió i el preu pujarà; i deixar les claus de casa i el gos a algú que només té quatre valoracions em fa respecte.",
+  "would_change_my_mind": "Un paquet o preu reduït per passejades recurrents d'uns 8-10 € amb el mateix veí de confiança, i saber ja quina comissió cobraran després dels 12 mesos.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 14,
+  "price_too_expensive": 20
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P055",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Quan necessito algú és d'avui per demà i per entrar a casa del meu pare, i no deixaria entrar un desconegut només perquè té quatre valoracions en una web nova. A més, el que jo necessito és algú per acompanyar o ajudar la meva mare, i això ni tan sols surt a la llista.",
+  "objection": "No sé qui és aquesta gent: unes estrelles d'altres veïns no em diuen si és de fiar per quedar-se sola amb una persona gran, i no veig que comprovin res de ningú.",
+  "would_change_my_mind": "Que verifiquessin la identitat i els antecedents de cada persona, i que algú de confiança me la recomanés; i saber que puc trobar algú el mateix dia.",
+  "price_too_cheap": 7,
+  "price_cheap": 10,
+  "price_expensive": 16,
+  "price_too_expensive": 22
+}

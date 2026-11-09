@@ -1,0 +1,13 @@
+{
+  "id": "P069",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Sí, el gos està sol tot el dia, però 13-20 € per passeig és massa per a mi; ja ho arreglo amb els companys de pis o amb un estudiant que m'ho fa per 5 € en efectiu. I una altra web on registrar-me i posar la targeta, no gràcies.",
+  "objection": "És car per al que cobro, i haver de pagar amb targeta per una web quan ho puc pagar en mà a algú del barri més barat.",
+  "would_change_my_mind": "Que hi hagués algú a prop que passegés el gos per menys de 8 € i que el pogués provar sense registrar-me amb la targeta.",
+  "price_too_cheap": 3,
+  "price_cheap": 5,
+  "price_expensive": 9,
+  "price_too_expensive": 13
+}

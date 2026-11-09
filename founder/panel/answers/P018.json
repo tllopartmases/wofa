@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Quan necessito algú d'urgència, pregunto al grup de WhatsApp de la classe i em ve algú que coneixen altres pares. No deixaria els meus fills ni les claus de casa a un desconegut d'una web nova, per moltes estrelles que tingui.",
+  "objection": "No conec aquesta gent; unes valoracions en una web que acaba de començar no em diuen res de qui entra a casa meva o es queda amb els meus fills. I amb el que guanyo, si ho he de pagar, ja m'ho faig jo o ho demano a un familiar.",
+  "would_change_my_mind": "Que la persona me la recomanés algú que conec, per exemple un altre pare del grup de l'escola que ja l'hagi fet servir, i que estigués disponible el mateix dia.",
+  "price_too_cheap": 5,
+  "price_cheap": 7,
+  "price_expensive": 10,
+  "price_too_expensive": 13
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Si és una web nova, els perfils encara no tindran valoracions de debò, i jo no deixo els meus fills amb algú que no conec només perquè surti en una web. Ara per ara, quan necessito cangur, ho pregunto al grup de WhatsApp de la classe o a algú que conec.",
+  "objection": "Qui em garanteix que la persona que entra a casa meva és de fiar? Els diners retinguts no em serveixen de res si el problema és amb els meus fills, i les valoracions d'una web que acaba de començar poden ser poques o de coneguts.",
+  "would_change_my_mind": "Que una altra mare de l'escola a qui conec me'n recomanés una persona concreta que ja hagi fet servir, amb moltes valoracions reals i havent-la pogut conèixer en persona abans.",
+  "price_too_cheap": 5,
+  "price_cheap": 8,
+  "price_expensive": 11,
+  "price_too_expensive": 14
+}

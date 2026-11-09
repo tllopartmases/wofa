@@ -1,0 +1,13 @@
+{
+  "id": "P095",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "El gos el passejo jo mateix i, quan necessito cangur, ho pregunto al grup de WhatsApp de l'escola o ho fan els avis. No veig per què hauria de pagar amb targeta a un desconegut d'una web si ja tinc algú de confiança.",
+  "objection": "Deixar els meus fills amb algú que només conec per unes valoracions en una web nova, on segurament encara hi ha poca gent i poques opinions.",
+  "would_change_my_mind": "Que algun pare o mare de l'escola em digués que hi ha trobat un cangur bo i de confiança, i que fos algú del meu barri.",
+  "price_too_cheap": 6,
+  "price_cheap": 9,
+  "price_expensive": 13,
+  "price_too_expensive": 16
+}
